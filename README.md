@@ -1,4 +1,4 @@
-# Hello World!, I'm Nishant, a Indian Developer 👋🏼:
+# Hello World!, I'm Somay, a Indian Developer 👋🏼:
 
 <img src="visitingcard.png" alt="GitHub Banner" width="100%" />
 
